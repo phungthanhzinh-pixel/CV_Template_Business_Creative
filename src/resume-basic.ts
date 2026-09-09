@@ -11,7 +11,7 @@ import type { CVData } from "@/resume-types";
 
 export const basic: CVData = {
   header: {
-    fullName: "VÕ HOÀNG HẢI NGHĨA",
+    fullName: "Phùng Thành Vinh",
     position: "Nhà sáng tạo nội dung / Thiết kế hình ảnh",
     tagline:
       "(Nghĩa Zakshin) · Sinh 06/09/1996 — Content Creator & Graphic Designer, tư duy sáng tạo hiện đại, thiết kế visual đa nền tảng và xây dựng thương hiệu cá nhân.",
