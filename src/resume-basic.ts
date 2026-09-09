@@ -11,10 +11,10 @@ import type { CVData } from "@/resume-types";
 
 export const basic: CVData = {
   header: {
-    fullName: "VÕ HOÀNG HẢI NGHĨA",
-    position: "Nhà sáng tạo nội dung / Thiết kế hình ảnh",
+    fullName: "Phùng Thành Vinh    ",
+    position: " vocal / chụp ảnh",
     tagline:
-      "(Nghĩa Zakshin) · Sinh 06/09/1996 — Content Creator & Graphic Designer, tư duy sáng tạo hiện đại, thiết kế visual đa nền tảng và xây dựng thương hiệu cá nhân.",
+      "( Thành Vinh) · Sinh 15/08/2009— Content Creator & Graphic Designer, tư duy sáng tạo hiện đại, thiết kế visual đa nền tảng và xây dựng thương hiệu cá nhân.",
     highlights: [
       "Graphic Design",
       "Content Creator",
@@ -22,12 +22,12 @@ export const basic: CVData = {
       "Visual Storytelling",
       "Ubuntu Server",
     ],
-    phone: "0968 884 946",
-    email: "nghiasoothsayer@gmail.com",
+    phone: "0337351219",
+    email: "phungthanhzinh@gmail.com",
     address: "Tây Ninh, Việt Nam",
     portfolio: "https://github.com/ZakShinn",
-    facebook: "https://www.facebook.com/profile.php?id=100006985387032",
-    zalo: "https://zalo.me/0968884946",
+    facebook: "https://www.faceboook.com/share/1bCnewvwKK/?mibextid=wwXlfr",
+    zalo: "https://zalo.me/0337351219",
   },
 
   creativeSkills: {
@@ -69,7 +69,7 @@ export const basic: CVData = {
 
   education: [
     {
-      school: "Đại học Cần Thơ",
+      school: "Đại học thanh nhạc tphcm",
       major: "Công nghệ thông tin",
       period: "2022 – 2024",
       detail:
